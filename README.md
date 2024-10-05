@@ -17,5 +17,5 @@ pip install requests beautifulsoup4 gradio
 
 Run the app
 ```bash
-python3 app.py
+gradio app.py
 ```
